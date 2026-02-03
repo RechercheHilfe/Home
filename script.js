@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let postingsReclickTimeoutId = null;
     let isPostingsLoadingOverlayActive = false;
 
-    const MEMES_TO_GENERATE_BATCH = 4;
+    const MEMES_TO_GENERATE_BATCH = 6;
 
     const loadingMessages = {
         memes: {
