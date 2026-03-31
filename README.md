@@ -5,3 +5,5 @@ Die ausgewählten Beiträge sind in ContentData.json zu finden.
 Eine fast identische Website, die sich auf die positiven Aspekte von Weltraumtourismus fokussiert ist hier zu finden: https://recherchehilfe.github.io/main/
 
 Die zwei Websites können z.B. im Unterricht verwendet werden, um den Schüler:innen klarzumachen, wie leicht Filterblasen die eigene Meinung beeinflussen können und um ihre kritische Medienkompetenz zu steigern.
+
+Zur Programmierung wurde das Gemini Flash 3 Preview Modell in Google AI Studio (https://aistudio.google.com/) verwendet.
